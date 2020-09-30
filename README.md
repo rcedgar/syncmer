@@ -22,7 +22,7 @@ Metrics are written to `output.tsv` in tab-separarated text format. Options:
 
 `-d nn` Integer down-sampling parameter.
 
-`-pctid nn or -pctidlo nn -pctidhi nn -pctidinc` Mutation rate(s).
+`-pctid nn or -pctidlo nn -pctidhi nn -pctidinc nn` Mutation rate(s).
 
 `-seqlength nn`  Random sequence length. Default 1000000.
 
