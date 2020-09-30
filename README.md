@@ -14,11 +14,11 @@ There is a Microsoft Visual Studio project file for VS 2017 (v15.4). This will p
 
 Metrics are written to `output.tsv` in tab-separarated text format. Options:
 
-`-k nn or -klo nn -khi nn` Value(s) of k (k-mer length).
+`-k nn or -klo nn -khi nn` Value(s) of k to test (k-mer length).
 
 `-s nn or -slo nn -klo nn` Value(s) of s (syncmer substring length).
 
-`-m nn or -slo nn -shi nn` Values(s) of m (minimizer window length).
+`-w nn or -wlo nn -whi nn` Values(s) of w (minimizer window length).
 
 `-d nn` Integer down-sampling parameter.
 
