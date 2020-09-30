@@ -24,6 +24,8 @@ Metrics are written to `output.tsv` in tab-separarated text format. Options:
 
 `-pctid nn or -pctidlo nn -pctidhi nn -pctidinc` Mutation rate(s).
 
+`-seqlength nn`  Random sequence length. Default 1000000.
+
 `-pcitidout pctid.tsv` Writes pctid metrics to tabbed file.
 
 `spacingout spacing.tsv` Writes spacing frequencies to tabbed file.
