@@ -41,5 +41,5 @@ If the lo & hi variants of an option are specified, then all values from lo to h
 `sycnmer -searchsix genome1.fasta -db genome2.fasta -sts ST -k K -w W -t T -log results.txt`   
 
 ST is the submer type: Minimizer1 for minimizers or Syncmer5 for syncmers. 
-K is the kmer length, W is the minimizer window length, t is the syncmer substring length (same as -s parameter for -newbench command).
+K is the kmer length, W is the minimizer window length, T is the syncmer substring length (same as -s parameter for -newbench command).
 
