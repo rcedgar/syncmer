@@ -38,6 +38,8 @@
 #define _stricmp	strcasecmp
 #endif
 
+#define byte rce_byte
+
 //#ifndef max
 //#define max(x, y) ((x) >= (y) ? (x) : (y))
 //#define min(x, y) ((x) <= (y) ? (x) : (y))
